@@ -1,0 +1,59 @@
+.main-logo {
+    margin-top: 50px;
+    margin-left: 600px;
+    
+}
+.search {
+    margin-left: 475px;   
+
+}  
+.area {
+    background-color: rgb(221, 216, 216);
+    height: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.search-container {
+    margin-left: 65px;
+    margin-top: 2px;
+}
+.lucky {
+    margin-left: 15px;
+    margin-top: 2px;  
+}
+.first-row {
+    background-color: aqua;
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 1px;
+    width: 36%;
+    
+
+}
+.second-row {
+    background-color: #70CCC2;
+    text-align: center;
+    margin-left: 720px;
+    margin-top: -87px;
+    padding-top: 15px;
+    padding-left: 5px;
+    width: 230px;
+    height: 71px;
+}
+.third-row {
+    width: 30%;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 150px;
+    margin-top: -90px;
+    padding-left: 5px;
+}
+
+.third {
+    font-size: small;
+}
+.footer {
+    text-align: center;
+    margin-top: 25px;
+}
